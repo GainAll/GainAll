@@ -10,3 +10,4 @@ A quiet nobody who refuses to be ordinary.
 
 - **Being comes before learning** · Existence drives me before learning does.
 - **Meaning is found in motion** · Meaning comes from doing, not thinking.
+
