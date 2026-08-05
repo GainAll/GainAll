@@ -10,3 +10,11 @@
 
 - **生存比学习更原始** · 不靠计划，靠那团不灭的火。
 - **意义是走出来的** · 先迈步，再回望。
+
+## ⭐ 精选项目
+
+我正在做的。
+
+🔍 [**mine-codex-needs**](https://github.com/GainAll/mine-codex-needs) - 挖掘你自己的 Codex 提示词历史，找到值得做的东西。靠证据，不靠感觉。
+
+🏃 [**trainquest-agent**](https://github.com/GainAll/trainquest-agent) - 本地优先的运动记录 agent，带游戏化进度和飞书工作流自动化。
